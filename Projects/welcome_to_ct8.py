@@ -9,13 +9,13 @@ stage = StageClass()
 
 
 stage.set_background("photoofjack.jpg")
-mySprite = codesters.Sprite("fortnite.jpg")
-mySprite = codesters.Sprite("pineapple.webp",100,0)
+mySprite = codesters.Sprite("fortnite.jpg",-200,0)
+mySprite = codesters.Sprite("pineapple.webp",200,0)
 mySprite.set_size(0.2)
 mySprite.say("AHHHHHHHHHHHHHHHHHHH")
 
 
-print("\n\nWhen you have found the CARDINAL, click here, then use CTRL C to end the program\n\n")
+print("\n\nNoice job it worked! I think\n\n")
 mySprite2 = codesters.Sprite("baseball",-200,200)
 mySprite2 = codesters.Sprite("baseball",-190,200)
 mySprite2 = codesters.Sprite("baseball",-180,200)
